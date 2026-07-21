@@ -1,0 +1,1 @@
+print("this repository is for data scinece and machine learning projects for stok market and  pv analyser")

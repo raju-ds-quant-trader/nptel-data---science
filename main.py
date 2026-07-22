@@ -1,1 +1,7 @@
 print("this repository is for data scinece and machine learning projects for stok market and  pv analyser")
+a=input("enter your name")
+b=input("enter your age")
+c=input("enter your city")
+d=input("entrer your country")
+e=input("enter your email")
+print("your details are as follows", a, b, c, d, e)
